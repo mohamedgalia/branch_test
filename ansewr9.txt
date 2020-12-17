@@ -1,0 +1,9 @@
+* f1b09bb (HEAD -> master) 2 master commit
+| * ea56705 (greeting) 1st branch commit
+|/
+* 32a197e 1st commit
+
+this show as the commits and the changes that made in all the branches
+first commit of make the master
+the scond of change filr in the greeting branch
+thire of adding the READMR
