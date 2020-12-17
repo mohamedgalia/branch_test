@@ -1,0 +1,29 @@
+diff --git a/README.md b/README.md
+deleted file mode 100644
+index 2a2b3a7..0000000
+--- a/README.md
++++ /dev/null
+@@ -1 +0,0 @@
+-this is a task for lerning a branch system in git
+\ No newline at end of file
+diff --git a/ansewr9.txt b/ansewr9.txt
+deleted file mode 100644
+index d309a3a..0000000
+--- a/ansewr9.txt
++++ /dev/null
+@@ -1,9 +0,0 @@
+-* f1b09bb (HEAD -> master) 2 master commit
+-| * ea56705 (greeting) 1st branch commit
+-|/
+-* 32a197e 1st commit
+-
+-this show as the commits and the changes that made in all the branches
+-first commit of make the master
+-the scond of change filr in the greeting branch
+-thire of adding the READMR
+\ No newline at end of file
+diff --git a/greeting.txt.txt b/greeting.txt.txt
+index e69de29..bab47f9 100644
+--- a/greeting.txt.txt
++++ b/greeting.txt.txt
+@@ -0,0 +1 @@
